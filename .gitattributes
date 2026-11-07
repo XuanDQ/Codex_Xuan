@@ -1,0 +1,8 @@
+*.mp4 binary
+*.mp3 binary
+*.docx binary
+*.pptx binary
+*.ino text
+*.md text
+*.py text
+*.json text

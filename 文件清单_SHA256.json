@@ -1,0 +1,307 @@
+[
+  {
+    "path": "ESP32课程_v1.1/第一课/第一课_教师手册.docx",
+    "bytes": 41466,
+    "sha256": "17a8a602e29512cf4e258812508c0b75ea48e3fd5f65e9664dcaaa6ebf39d762"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/第一课_讲稿与分镜.md",
+    "bytes": 23954,
+    "sha256": "0c8ecd09587f2f713f1fda85591e394c04b8767a638123f1069903cfe1239965"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/课程制作规范_v1.1.docx",
+    "bytes": 39403,
+    "sha256": "b3734c1f83f00980c1a4668b8f07a51307b5641de7ed781fa78ce3b878eb4d99"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/ESP32_手机发送_基础版.ino",
+    "bytes": 1022,
+    "sha256": "28d17a9df826432facb57b5f1feeb2afad5fed6ba91528a46bd5763b678245b2"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/第一课_纯人声讲解.mp3",
+    "bytes": 18630188,
+    "sha256": "d021df587909f483ebaec1ecb814b6766da59a4f34f56a9740d9bb8b6a27112c"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/第一课_讲稿与分镜.docx",
+    "bytes": 47086,
+    "sha256": "c8d8d721a3cd5d92e70b04e8c020e4e8add069a5b8bdaf653339ea8a9754bcc8"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/第一课_同步字幕.srt",
+    "bytes": 24630,
+    "sha256": "a726af6f6158f735382472d30de8203bf23ff3c73c529d0e610249404982f0b9"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/第一课_教师手册.md",
+    "bytes": 9271,
+    "sha256": "c2a9c8fa34f13a3489e06a5cbaee9f13928f3325fe45440098e0cb2ed758acef"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/制作状态.json",
+    "bytes": 185,
+    "sha256": "d60f73d8d1bd776bd2e81f10457adb3d65b002d5c937848488ce7894aff07893"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/先读我.md",
+    "bytes": 794,
+    "sha256": "0386a6fac8026185a30e2109aea397f689f3101c4d02ec5c990c188df8333eab"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/素材与技术来源.md",
+    "bytes": 909,
+    "sha256": "3cf2547bb0a76dfda29c29bb0cb97736fc3d3d2a36c8e2c8022ed7bf7f36cf70"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/第一课_互动讲解配套.pptx",
+    "bytes": 2263344,
+    "sha256": "8103e4affb2d50492d12db3a483eb27824304f04b1a549042744925e9148c280"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/timeline.json",
+    "bytes": 73399,
+    "sha256": "917aed49c8f3ba24a4ec13cbd2b95f3b19d96730313299fdd99acf686a2c90bd"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/文件检查结果_v1.1.txt",
+    "bytes": 591,
+    "sha256": "498594a2e7f96de4e34b1b9ee8af66165a34bbcd52286f6c15f289dd87b19b74"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/第一课_蓝牙文字传输_互动视频.mp4",
+    "bytes": 23000939,
+    "sha256": "9002171d032e622f22ffe3c6efa2f90ee5fe479eaf5c406186db09eca2f2c7f5"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/课程制作规范_v1.1.md",
+    "bytes": 4440,
+    "sha256": "fd00dc51749b0242e3a37e1f299cdb2176862baddd78000a8740d41da004b88d"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/语音模型_LICENSE.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/语音包/06_通关回顾.mp3",
+    "bytes": 975788,
+    "sha256": "824e921f75af54362e55a24efd4fd66b4ffa85d84bd345ecda4753184c256a06"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/语音包/01_任务与无线基础.mp3",
+    "bytes": 3623852,
+    "sha256": "b6614bee6ba7dfd2ab84c498318aa6ef357729a080229f07dcca4cea233f28f0"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/语音包/02_发现与连接.mp3",
+    "bytes": 3270572,
+    "sha256": "c89935fc6ca90d707fb5125f1495d509dba1b3b2ce2f64937107c156d6eeab6c"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/语音包/05_实验与排错.mp3",
+    "bytes": 3264428,
+    "sha256": "53629d6a7167c90b9c17cd41ef094a8d710f73c07ea507e1be069107d09eb77f"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/语音包/04_手机APP搭建.mp3",
+    "bytes": 4201004,
+    "sha256": "8c192d001ffba15016456efc1120a19170fde1da57226e87077fadd95ef06c85"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/语音包/03_ESP32接收程序.mp3",
+    "bytes": 3301676,
+    "sha256": "d90a1db02a01c486fe65ee600c72f4b45853cb3ba0816ec267c199b37cb41ab4"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/制作源文件/synth.py",
+    "bytes": 3022,
+    "sha256": "67a154eb6edca30458c3d178330496b8aee25816f1d7ea56b0157d8708c2f3c5"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/制作源文件/lesson.py",
+    "bytes": 24090,
+    "sha256": "4193f56781dc7ed6b6ae6edb844a82dba3c938fe207725eb678908a1bbac8f7c"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/制作源文件/docs.py",
+    "bytes": 11050,
+    "sha256": "42123572f6bd5063f7fefb92cb8476d6312a3f1198cd5b49353362063bd56e7c"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/制作源文件/render.py",
+    "bytes": 11370,
+    "sha256": "67cf4094b126e932bd9052a238d2b352edba36c119e2cd3f4d71aa7c6f3d2ce4"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/制作源文件/复用说明.md",
+    "bytes": 425,
+    "sha256": "e537793c13a1124788bb5e2f05b43303dfe29136f95a248d4be85ac5fa6afa9d"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/制作源文件/finalize.py",
+    "bytes": 7020,
+    "sha256": "6b6f3001fc3392a5e07e7442ae94e97330dfe08329642ac2225e810c8c761d1d"
+  },
+  {
+    "path": "ESP32课程_v1.1/第一课/制作源文件/timeline.json",
+    "bytes": 73399,
+    "sha256": "917aed49c8f3ba24a4ec13cbd2b95f3b19d96730313299fdd99acf686a2c90bd"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/第二课_讲稿与分镜.docx",
+    "bytes": 46726,
+    "sha256": "18b40d5d2339c7f275c3ac3286f4e5849e5d8f3f5144f7d698bc6f88e104c7dc"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/第二课_讲稿与分镜.md",
+    "bytes": 23094,
+    "sha256": "b8c465c3f007425dc4c9c27da8fa8c742ff21068deab6622ee5ec95b03eef3c3"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/课程制作规范_v1.1.docx",
+    "bytes": 39403,
+    "sha256": "b3734c1f83f00980c1a4668b8f07a51307b5641de7ed781fa78ce3b878eb4d99"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/第二课_纯人声讲解.mp3",
+    "bytes": 18289964,
+    "sha256": "b6205f764938e363dc8f279c2619a8f8be5d9a17b21d61080aff3c235496ca7c"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/课程画面预览.jpg",
+    "bytes": 183396,
+    "sha256": "a42169d7472e2b9576c8dccf29d20e70e046efb442d804c82c5c9b9e225205f4"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/第二课_同步字幕.srt",
+    "bytes": 23952,
+    "sha256": "728ef75984486cfe342d44edc6846dd4342890813d54a08588e6a8d9df070c39"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/制作状态.json",
+    "bytes": 218,
+    "sha256": "546be5b4b3ebbe22f15135d73331b214fa855c513c377d766779ab7cbf081573"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/先读我.md",
+    "bytes": 343,
+    "sha256": "c43b7a8cc1af881f3f7860c1bb110c043c9a0d1432a22a643ee61458686495f1"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/原课件_内嵌实操演示.mp4",
+    "bytes": 6390689,
+    "sha256": "260925fc78d738e5b5be1fd95df01899560876371ffe70703412ecf7fe562b64"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/第二课_蓝牙聊天室_互动视频.mp4",
+    "bytes": 23158377,
+    "sha256": "f9ec91e99148211bcda8c2fea504b0128bf6b78f9563918d485e9cfbbf7caade"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/第二课_教师手册.md",
+    "bytes": 8010,
+    "sha256": "b4355fa9133c1fe81f1876d24405361e9640d1573e06685e046ac345ade9a65e"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/素材与技术来源.md",
+    "bytes": 1127,
+    "sha256": "2755f32f1d03aeac4f8be60a2da2cd556101ab56217f4622d1f0ff43e7db27e3"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/第二课_互动讲解配套.pptx",
+    "bytes": 630100,
+    "sha256": "cad05d01958077a4fbc360f652372ff194264c2555beada05b7aeae3fbd9695b"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/ESP32_双向聊天_基础版.ino",
+    "bytes": 1174,
+    "sha256": "33d4633a3eceebbe535b373b9e3646cb3e1f292eabb325782146809fcd753c18"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/第二课_教师手册.docx",
+    "bytes": 40837,
+    "sha256": "8408fbf6e588eb35233dd4b8dd7f57e8430ed324e81e137e19efde54114be485"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/timeline.json",
+    "bytes": 72825,
+    "sha256": "4ff3ab35b9f4e11b949fc332a3332042f5ae214743eec6f6a434bdd7d817116c"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/文件检查结果_v1.1.txt",
+    "bytes": 591,
+    "sha256": "975a336f304c3f0d94426f93cb85cb41a2ff9e4d56917b215b0dc5eb97d975e7"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/课程制作规范_v1.1.md",
+    "bytes": 4440,
+    "sha256": "fd00dc51749b0242e3a37e1f299cdb2176862baddd78000a8740d41da004b88d"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/语音模型_LICENSE.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/语音包/04_消息边界.mp3",
+    "bytes": 2717228,
+    "sha256": "54d5d16ebf1b8517215ccd465af0a6eedd16a3f513aababb92975696e4d6f3eb"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/语音包/01_任务与路线.mp3",
+    "bytes": 2564396,
+    "sha256": "31717747287994d58a3fe74b89f14a5055650f88982eccbd2b703c2baf2ec197"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/语音包/06_通关回顾.mp3",
+    "bytes": 1513388,
+    "sha256": "4d64b02cb48d1516a65032d4dfd84d5dcae23ae2f6ff282eb5225ad6972cdb0d"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/语音包/02_双向转发代码.mp3",
+    "bytes": 3262124,
+    "sha256": "f4ff2aaa9a58cbb3fefa217856eaa1e543db5e837a99adabb7dacb07713d9959"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/语音包/03_手机接收逻辑.mp3",
+    "bytes": 4954028,
+    "sha256": "f8ae6589dd49b1f577075c5211c9a58ea66a0bb9b1c75600c3690df21f4e7ee9"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/语音包/05_实验与排错.mp3",
+    "bytes": 3285548,
+    "sha256": "b1bd1299731b1c3c0341f54f0a26b92a149c9a74c6b96c01b3a4c9fd386e2eac"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/制作源文件/synth.py",
+    "bytes": 2997,
+    "sha256": "80ddc6fffddb5ebeaa414b7c5af91e8c443adef6dee952df9ce1eaa77fa61adb"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/制作源文件/lesson.py",
+    "bytes": 23543,
+    "sha256": "eb1e1ffd4807bceee2f48324cb3b02b75ada60a2787e40822d95139165a01841"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/制作源文件/finalize_v11.py",
+    "bytes": 10259,
+    "sha256": "aeb6e937ed5b60d3f16457539d368ec15ca31b9d754a90f2bcb233e24c0bafaf"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/制作源文件/render.py",
+    "bytes": 10303,
+    "sha256": "97f28c78b3e40cabd9a853436333aabd68a84b9d25de6e611bb21cec68bd1a41"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/制作源文件/复用说明.md",
+    "bytes": 323,
+    "sha256": "72e820756c323bcc5b61f7b145298c82b8302a3f7350a6f7e6ccf4e42ac88c40"
+  },
+  {
+    "path": "ESP32课程_v1.1/第二课/制作源文件/timeline.json",
+    "bytes": 72825,
+    "sha256": "4ff3ab35b9f4e11b949fc332a3332042f5ae214743eec6f6a434bdd7d817116c"
+  }
+]
